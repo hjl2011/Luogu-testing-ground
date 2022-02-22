@@ -1,2 +1,3 @@
-# Luogu-testing-ground
-Luogu-testing-ground | 洛谷试炼场
+# 洛谷试炼场
+
+`main.md`
