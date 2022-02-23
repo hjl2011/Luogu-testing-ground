@@ -11,3 +11,7 @@
 [省选斗兽场/NOI神殿](https://github.com/hjl2011/Luogu-testing-ground/blob/main/main.md#省选斗兽场noi神殿)
 
 [USACO](https://github.com/hjl2011/Luogu-testing-ground/blob/main/main.md#usaco)
+
+&nbsp;
+
+如果该项目对您有帮助的话，希望您能在右上角点一个 `star`
