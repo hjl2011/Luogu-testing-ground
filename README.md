@@ -12,6 +12,6 @@
 
 [USACO](https://github.com/hjl2011/Luogu-testing-ground/blob/main/main.md#usaco)
 
-&nbsp;
+---
 
 如果这个项目对您有帮助的话，希望您能在右上角点一个 `star` qwq
