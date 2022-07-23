@@ -1,7 +1,10 @@
 # 目录
 [新手村](/main.md#新手村)
+
 [普及练习场](/main.md#普及练习场)
+
 [省选斗兽场/NOI神殿](/main.md#省选斗兽场noi神殿)
+
 [USACO](/main.md#usaco)
 
 # 新手村
